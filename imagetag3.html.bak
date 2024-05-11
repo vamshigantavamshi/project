@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+ <body>
+  <svg width="500" height="500">
+  <line x1="50" y1="50" x2="200"y2="50" stroke="red" stroke-width="5"></line>
+  <text x="100" y="80" fill="green">NARESH IT</text>
+ </svg>
+ </body>
+</html>

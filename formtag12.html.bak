@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+ <body>
+<form action="reg.jsp">
+firstname<input type="text" name="fname" required><br>
+Lastname<input type="text" name="lname" disabled><br>
+MailId<input type="email" name="email" value="abc@gmail.com" readonly><br>
+Mobile number<input type="tel" name="mobno" pattern="[0-9]{10}" novaildate placeholder="Enter 10 digits" autocomplete="off"><br>
+<input type="submit"><input type="reset">
+</form>
+ </body>
+</html>

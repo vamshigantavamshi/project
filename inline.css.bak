@@ -1,0 +1,18 @@
+<html>
+<head>
+<style>
+h1
+{
+color:red;
+}
+p
+{
+color:green;
+</style>
+</head>
+<body>
+<h1>HTML</h1>
+<p>HYPER TEXT MARKUP LANGUAGE</p>
+<h1> CSS</h1>
+<p>CASCADING STYLESHEETS</P>
+</html>

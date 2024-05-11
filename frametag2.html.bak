@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+
+ <frameset cols="20%,*" border="2" border color="red">
+ <frame src="first.html">
+ 
+
+ </frameset>
+</html>

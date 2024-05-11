@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+ <body>
+<form action="reg.jsp">
+<label for="country">Country</label>
+<select name="country">
+<option>India
+<option>US
+<option>UK
+</select>
+
+</form>
+ </body>
+</html>

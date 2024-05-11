@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+X<sub>2</sub>
+Today date is 2<sup>th </sup>Feb 2024<br>
+<p> it is equivalante in octal is 30<sub>(2)</sub></p> 
+<p>find the equation of 20<sup>2</sup></p><br>
+<pre>
+#include<stdio.h>
+void main()
+{
+printf("welcome to c");
+}
+</pre>
+  
+ </body>
+</html>

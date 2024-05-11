@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+ <body bgcolor="violet" text="green">
+  <h1> Registration Form</h1>
+  <form action="reg.jsp">
+  Gender<input type="checkbox" name="gender" value="male">Male
+  <input type="checkbox" name="gender" value="female">female
+  <input type="submit"><input type="reset">
+  </form>
+ </body>
+</html>

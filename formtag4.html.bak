@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>hi</head>
+ <body bgcolor="red" text="wheat">
+  <center>
+  <h1><u>Registration Form</u></h1>
+ <form action="reg.jsp">
+ languages u know<input type="checkbox" name="lang" value="hindi">Hindi<br>
+ <input type="checkbox" name="lang" value="telugu">Telugu<br>
+ <input type="checkbox" name="lang" value="english">English<br><br>
+ <input type="submit"><input type="reset">
+ </form>
+
+ </body>
+</html>

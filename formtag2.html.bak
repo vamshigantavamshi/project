@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+ <body bgcolor="black" text="blue">
+ <center>
+ <form action="login.jsp" method="post" name="login" autocomplete="off" novalidate target="_blank">
+ username<input type="text" name="uname" value="abc" minlength="3" maxlength="5"><br>
+ password<input type="password" name="pword" ><br><br>
+<input type="submit"><input type="reset">	
+ </form>
+  
+ </body>
+</html>

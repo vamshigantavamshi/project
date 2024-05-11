@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+ <body>
+  <table border="10">
+  <tr><td> colspan ="2" align = "center">java</td></tr>
+  <tr><td>corejava</td><td>advc java</td></tr>
+  </table>
+ </body>
+</html>

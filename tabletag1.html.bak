@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+ <body>
+  <table border="10" width="300" height="100" border color="green">
+  <tr><th>EMP NO</th><th>Name</th><th>Salary</th></tr>
+ <tr align="center"><td>102</td></tr>
+ </table>
+ </body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+ <header>
+ <h1 align="center">TWITTER,INSTGRAM,FACEBOOK
+ <hr>
+ </header>
+ <nav><a href="https://twitter.com/messages/compose">TWITTER</a>|<a href="https://www.instagram.com/direct/t/100241121375263/">INSTAGRAM</a>|<a href="https://www.facebook.com/">FACEBOOK</a> <nav>
+ <h2>HTML</h2>
+ <p>Share only photos and videos that you've taken or have the right to share. ...<br>
+Post photos and videos that are appropriate for a diverse audience. ...<br>
+Foster meaningful and genuine interactions. ...<br>
+Follow the law. ...<br>
+Respect other members of the Instagram community.</p>
+ <h2>CSS</h2>
+ <p></p>
+ <h2>JAVA SCRIPT<h2>
+ <p></p>
+ <footer>
+ <h3 align="center"><span>Naresh I Technologies</span>Ameerpet,Hyderabad</h3>
+ </footer>
+  
+ </body>
+</html>

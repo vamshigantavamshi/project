@@ -1,0 +1,13 @@
+<html>
+<body>
+<script>
+let x=window.prompt("enter any number:");26-03-2024
+if(x>0)
+document.write("positive number");
+else if(x<0)
+document.write("negative number");
+else
+document.write("zero");
+</script>
+</body>
+</html>

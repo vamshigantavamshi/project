@@ -1,0 +1,27 @@
+<html>
+<body>
+<h1 id="demo">Welcome to Hyderabad</h1>
+<input type="button" value="style1" onclick="style1()">
+<input type="button" value="style2" onclick="style2()">
+<script>
+function style1()
+{
+let element=document.getElementById("demo");
+element.style.color="red";
+element.style.bacgroundColor="yellow";
+element.style.borderstyle="solid";
+element.style.textAlign="center";
+element.style.borderRadius="15px";
+}
+function style2()
+{
+let element=document.getElementById("demo");
+element.style.color="yellow";
+element.style.bacgroundColor="green";
+element.style.borderstyle="dotted";
+element.style.textAlign="center";
+element.style.borderRadius="25px";
+}
+</script>
+</body>
+</html>
